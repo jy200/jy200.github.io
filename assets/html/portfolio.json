@@ -1,0 +1,12 @@
+{
+  "ultimate-rps": {
+    "name": "Ultimate RPS",
+    "format": "webp",
+    "tags": ["Web", "JavaScript", "HTML", "CSS"]
+  },
+  "react-todo": {
+    "name": "React Native TODO Planner",
+    "format": "png",
+    "tags": ["Mobile", "React Native", "JavaScript"]
+  }
+}
